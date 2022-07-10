@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8aa6b1dd.css",
+    "main.js": "/static/js/main.cbb187f8.js",
+    "static/js/787.121a0e85.chunk.js": "/static/js/787.121a0e85.chunk.js",
+    "static/media/Plak-IL-svg.jpg": "/static/media/Plak-IL-svg.2c0fac5c4ae6367ff26c.jpg",
+    "index.html": "/index.html",
+    "main.8aa6b1dd.css.map": "/static/css/main.8aa6b1dd.css.map",
+    "main.cbb187f8.js.map": "/static/js/main.cbb187f8.js.map",
+    "787.121a0e85.chunk.js.map": "/static/js/787.121a0e85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aa6b1dd.css",
+    "static/js/main.cbb187f8.js"
+  ]
+}
